@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.mg
+testFramework: spock
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, flyway, gcp-cloud-trace, gradle, http-client-test, jackson-databind, jdbc-hikari, kotlin, kotlin-application, kotlin-extension-functions, ksp, logback, micronaut-aop, micronaut-aot, micronaut-build, netty-server, postgres, readme, shade, spock, test-resources, yaml, yaml-build]

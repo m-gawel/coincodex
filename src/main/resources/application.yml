@@ -1,0 +1,11 @@
+micronaut:
+  application:
+    name: coincodex
+datasources:
+  default:
+    driver-class-name: org.postgresql.Driver
+    db-type: postgres
+flyway:
+  datasources:
+    default:
+      enabled: true
